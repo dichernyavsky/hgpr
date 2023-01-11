@@ -5,10 +5,10 @@ A Heteroscedastic Gaussian Process Regression Algorithm (HGPR) implementation is
 Kristian Kersting, Christian Plagemann, Patrick Pfaff and Wolfram Burgard.
 
 Unlike the homoscedastic algorithm, HGPR fits both target function and noise depending on the arguments.
-The implementation of HGPR is given in `hgpr.py` file. It employs a modified version of the Gaussian Process Regressior
+The implementation of HGPR is given in the `hgpr.py` file. It employs a modified version of the Gaussian Process Regressior
 from the [sckit-learn](https://scikit-learn.org) library, see `gpr_custom.py`. In the modified algorithm parameter `alpha` is fitted during the training.
 
-An example of HGPR usage is given in `demo.ipynb` file.
+An example of HGPR usage is given in the `demo.ipynb` file.
 
 There are two options how to run the demo code `demo.ipynb`:
 
