@@ -1,6 +1,6 @@
 # Heteroscedastic Gaussian Process Regression
 
-The Heteroscedastic Gaussian Process Regression Algorithm (HGPR) implementation is based on the paper
+A Heteroscedastic Gaussian Process Regression Algorithm (HGPR) implementation is based on the paper
 ["Most Likely Heteroscedastic Gaussian Process Regression"](http://people.csail.mit.edu/kersting/papers/kersting07icml_mlHetGP.pdf) by
 Kristian Kersting, Christian Plagemann, Patrick Pfaff and Wolfram Burgard.
 
