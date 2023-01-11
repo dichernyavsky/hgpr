@@ -21,7 +21,7 @@ Next, run the Docker container forwarding the port 8888 of the container to 8888
 
 ```docker run --rm -p 8888:8888 hgpr jupyter notebook --allow-root --ip 0.0.0.0 --no-browser```
 
-Now, the `demo.ipynb` is available via the url `http://localhost:8888/`.
+Now,`demo.ipynb` is available via the url `http://localhost:8888/`.
 
 2) Run `demo.ipynb` using the environment in `env.yml` as a kernel for jupyter. Create conda environment with the command 
 
