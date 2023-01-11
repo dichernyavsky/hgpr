@@ -10,7 +10,7 @@ from the [sckit-learn](https://scikit-learn.org) library, see `gpr_custom.py`. I
 
 An example of HGPR usage is given in `demo.ipynb` file.
 
-One can run the demo code `demo.ipynb` following one of two ways:
+There are two options how to run the demo code `demo.ipynb`:
 
 1) Run `demo.ipynb` in the jupyter server in the Docker container. 
 First build the Docker image 
