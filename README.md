@@ -12,7 +12,7 @@ An example of HGPR usage is given in `demo.ipynb` file.
 
 There are two options how to run the demo code `demo.ipynb`:
 
-1) Run `demo.ipynb` in the jupyter server in the Docker container. 
+1) Run `demo.ipynb` on a jupyter server in the Docker container. 
 First build the Docker image 
 
 ```docker build -f Dockerfile -t hgpr .``` 
